@@ -8,13 +8,13 @@ description: By Grace and Pedro
 
 [Original Document](https://docs.google.com/document/d/1iw7BA5aIsjuHNxi9DeZyHtatLNPw5tYYrkfNARQmVK0/edit)
 
-### Expected Outcomes 
+### I - Expected Outcomes 
 
-* Uncover all relevant proposals around a specific topic so that we aren’t duplicating efforts with the upcoming [proposal for research](https://docs.google.com/spreadsheets/d/1pQrfzQMafzrsXt66ZzJBTjm20qeLXoUFX51ptRywLm4/edit#gid=1194219037) \([discussion on DAOtalk](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)\)
-* Propose heuristics for future attempts at “proposals archeology”
-* Be the start of a potential project for categorizing and sorting proposals semantically  
+1. Uncover all relevant proposals around a specific topic so that we aren’t duplicating efforts with the upcoming [proposal for research](https://docs.google.com/spreadsheets/d/1pQrfzQMafzrsXt66ZzJBTjm20qeLXoUFX51ptRywLm4/edit#gid=1194219037) \([discussion on DAOtalk](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)\)
+2. Propose heuristics for future attempts at “proposals archeology”
+3. Be the start of a potential project for categorizing and sorting proposals semantically  
 
-#### Deliverables:
+### II - Deliverables:
 
 1. Report of findings and analysis of results \(in both editable and pdf formats\)
 2. Spreadsheet of findings \(interacting with [proposal tracking](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=1899049180)\)
