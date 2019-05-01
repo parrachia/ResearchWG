@@ -2,7 +2,7 @@
 
 #### Help define the proposal taxonomy
 
-Building off a baseline framework, we invite members of the genDAO to continue the work developing  a clear definition and scope of the proposal concept that:
+By building off a baseline framework, we invite members of the genDAO to continue the work developing  a clear definition and scope of the proposal concept that:
 
 * Educates and clearly defines in non-technical and across industry terms
 * Establishes a common set of terms and definitions for use by business and technical participants
@@ -60,5 +60,5 @@ Building off a baseline framework, we invite members of the genDAO to continue t
 
     \_\_
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../../.gitbook/assets/image%20%283%29.png)
 

@@ -53,11 +53,17 @@ We did not perform an analysis per-budget.
  Next steps possible:
 
 * Alchemy explorer¹ further developments 
+  * 
 * Repository of all proposals, searchable
+  * 
 * Tagging system for repository
+  * 
 * Categorization, like DASH has, so the budget can be followed as per past allocation 
+  * By using the taxonomic apparatus here presented
 * Analysis of funds allocated breakdown 
+  * As mentioned earlier an improved visualization of proposals, together with a vision and budgeting review, can be of great assistance here
 * Analysis of reputation given versus actual use of REP, that is, whether people allocated REP are actually using it.
+  * 
 
 > ¹ The authors are concerned about the transparency of voting with the Alchemy Explorer. Anonymous voting allows people to worry less about the political implications of their votes and eliminates people voting for “friends” or people with more power, just to gain favor.
 
