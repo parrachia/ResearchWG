@@ -1,1 +1,2 @@
-# ResearchWG
+# Initial page
+
