@@ -1,10 +1,8 @@
 # Research on Search Engine for Proposals
 
-
-
 ## Proposal
 
-[passed proposal](https://docs.google.com/document/d/1iw7BA5aIsjuHNxi9DeZyHtatLNPw5tYYrkfNARQmVK0/edit)
+[Original Document](https://docs.google.com/document/d/1iw7BA5aIsjuHNxi9DeZyHtatLNPw5tYYrkfNARQmVK0/edit)
 
 ### Expected Outcomes 
 
@@ -27,5 +25,15 @@
   * Regarding that we identified multiple past proposals that could have benefited from a mapping of similar initiatives 
 * The proposals were fairly random, with an emphasis on marketing, particularly documentation and communications, with a few events.
 * 
+### **Taxonomy**
 
+![Give it a try!  Think of any proposal and Chose a correspondent \*\*retangle\*\* from each \*\*axis\*\* \(Internal x External and Financial x Non-Financial\)](../../.gitbook/assets/image.png)
+
+### Memes
+
+![](../../.gitbook/assets/2zuooy.jpg)
+
+![](../../.gitbook/assets/image%20%282%29.png)
+
+![](../../.gitbook/assets/image%20%281%29.png)
 
