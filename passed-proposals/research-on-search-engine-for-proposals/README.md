@@ -1,3 +1,7 @@
+---
+description: By Grace and Pedro
+---
+
 # Research on Search Engine for Proposals
 
 ## Proposal
@@ -27,6 +31,7 @@
 * Unlike other DAOs, the Genesis DAO does not focus on code. In fact, it’s the only DAO that does any industry research or marketing research at all. Generally anything having to do with marketing plans is centralized—in other words planning and marketing tend to be centralized by Aragon, Zcash, DASH, and DAOstack, if at all, rather than by the proposal-based DAOs they have created.
   * Regarding that, we identified multiple past proposals that could have benefited from a DAO landscape mapping, something that helps illustrate the importance of such research.
 * The proposals were fairly random, with an emphasis on marketing, particularly documentation and communications, with a few events.
+* * Doing the neck test was a healthy exercise that should be available to more DAO citizens and at a lower attention cost. Developing a proposal search engine could dramatically improve coordination and the proposal quality 
   * 
 
 {% page-ref page="untitled.md" %}
@@ -37,9 +42,7 @@
 
 ![](../../.gitbook/assets/2zuooy.jpg)
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![by Cem](../../.gitbook/assets/image%20%284%29.png)
 
 ![](../../.gitbook/assets/image%20%282%29.png)
-
-![](../../.gitbook/assets/image%20%281%29.png)
 
