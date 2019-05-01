@@ -41,6 +41,11 @@
   * Meta
     * _Affects how/what/why  we propose and vote_
   * Organization
+
     * _Policies_
     * _Non financial assets Like reputation, our Discord server_
+
+    \_\_
+
+![](../../.gitbook/assets/image%20%283%29.png)
 

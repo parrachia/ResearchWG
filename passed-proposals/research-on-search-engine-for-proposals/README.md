@@ -21,22 +21,23 @@
 ### Key takeaways
 
 * The current proposal repository system is inadequate for long-term record-keeping, accountability, and management. In fact, it is not a repository at all, as the proposals are not even stored in one account.
-  * the issue is aggravated by the simultaneously offchain \(usually gdocs\) and onchain \(alchemy and DAOstack stack\) aspects of proposals
+  * the issue is aggravated by the simultaneously offchain \(usually gdocs\) and onchain \(Alchemy and DAOstack stack\) aspects of proposals
   * an alternative that offers both ease of use and scaling capabilities is still lacking. 
   * we believe that a git based solution with some kind of open-source middleware could offer a viable candidate for solid medium-term solutions
 * Unlike other DAOs, the Genesis DAO does not focus on code. In fact, it’s the only DAO that does any industry research or marketing research at all. Generally anything having to do with marketing plans is centralized—in other words planning and marketing tend to be centralized by Aragon, Zcash, DASH, and DAOstack, if at all, rather than by the proposal-based DAOs they have created.
-  * Regarding that, we identified multiple past proposals that could have benefited from a DAO landscape mapping , which further points towards its importance
+  * Regarding that, we identified multiple past proposals that could have benefited from a DAO landscape mapping, something that helps illustrate the importance of such research.
 * The proposals were fairly random, with an emphasis on marketing, particularly documentation and communications, with a few events.
+  * 
 
+{% page-ref page="untitled.md" %}
 
-
-### **Taxonomy**
-
-![Give it a try!  Think of any proposal and Chose a correspondent \*\*retangle\*\* from each \*\*axis\*\* \(Internal x External and Financial x Non-Financial\)](../../.gitbook/assets/image.png)
+### \*\*\*\*
 
 ### Memes
 
 ![](../../.gitbook/assets/2zuooy.jpg)
+
+![](../../.gitbook/assets/image%20%284%29.png)
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
