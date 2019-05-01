@@ -21,8 +21,11 @@
 ### Key takeaways
 
 * The current proposal repository system is inadequate for long-term record-keeping, accountability, and management. In fact, it is not a repository at all, as the proposals are not even stored in one account.
+  * the issue is aggravated by the simultaneously offchain \(usually gdocs\) and onchain \(alchemy and DAOstack stack\) aspects of proposals
+  * An alternative that offers both ease of use and scaling capabilities is still lacking. 
+  * We believe that a git based solution with some kind of open-source middleware could offer a viable candidate for solid medium-term solutions
 * Unlike other DAOs, the Genesis DAO does not focus on code. In fact, it’s the only DAO that does any industry research or marketing research at all. Generally anything having to do with marketing plans is centralized—in other words planning and marketing tend to be centralized by Aragon, Zcash, DASH, and DAOstack, if at all, rather than the proposal-based DAOs they have created.
-  * Regarding that we identified multiple past proposals that could have benefited from a mapping of similar initiatives 
+  * Regarding that, we identified multiple past proposals that could have benefited from an industry mapping of similar initiatives 
 * The proposals were fairly random, with an emphasis on marketing, particularly documentation and communications, with a few events.
 * 
 ### **Taxonomy**
