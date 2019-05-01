@@ -1,5 +1,18 @@
 # Taxonomy
 
+#### Help define the proposal taxonomy
+
+Building off a baseline framework, we invite members of the genDAO to continue the work developing  a clear definition and scope of the proposal concept that:
+
+* Educates and clearly defines in non-technical and across industry terms
+* Establishes a common set of terms and definitions for use by business and technical participants
+* Creates a tagging system  that is simple to understand, organize and navigate
+* Decomposes tokens into parts to power a framework for mixing and matching, driving reuse and innovation
+
+## Taxonomy Breakdown
+
+#### Labels
+
 > * **\[Area\]**
 >   * \[Category\]
 >     * _\[Example/Description\]_
