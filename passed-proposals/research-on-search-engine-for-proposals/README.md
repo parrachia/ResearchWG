@@ -22,6 +22,8 @@ description: By Grace and Pedro
 
 ## Deliveries
 
+\[the importance of retrospectives\]
+
 ### Key findings
 
 * The current proposal repository system is inadequate for long-term record-keeping, accountability, and management. In fact, it is not a repository at all, as the proposals are not even stored in one account.
@@ -34,7 +36,9 @@ description: By Grace and Pedro
   * By analyzing the proposals using the taxonomy and the tags proposed here against a structured [vision](https://docs.google.com/document/d/10-0ppf_QpYdlBC_AFWt-QhJWyUpBRl5zU9bU1AWXUqU/edit#heading=h.ggo559linbt0) and [budget planning](https://docs.google.com/document/d/1fyhXSv_yp38FbC-R3aJPqqVJDvi6i0LATZya5F9vtZ4/edit), we may better understand the gaps and opportunities to become a more effective and cohesive group.
 * Doing the neck test was a healthy exercise that should be available to more DAO citizens and at a lower attention cost. Developing a proposal search engine could dramatically improve coordination and the proposal quality 
 
+{% page-ref page="report.md" %}
 
+{% page-ref page="untitled/" %}
 
 ### Memes
 

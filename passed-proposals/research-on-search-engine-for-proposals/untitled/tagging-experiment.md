@@ -4,7 +4,7 @@
 
 ##  
 
-![](../../.gitbook/assets/selection_063.png)
+![](../../../.gitbook/assets/selection_063.png)
 
 ## Tagging Proposals
 
