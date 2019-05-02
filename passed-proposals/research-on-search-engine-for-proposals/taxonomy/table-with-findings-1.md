@@ -1,5 +1,7 @@
 # Table with findings
 
+The tables below represent the sum of passed proposals accounted for in the Proposals Tracking until the passing of this very proposal. They were categorized according to the taxonomy previously presented and marked with an "X" if we believe that the proposal could have benefited from a Landscape mapping.
+
 ## Financial Proposals
 
 ### Internal

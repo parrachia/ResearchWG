@@ -28,7 +28,7 @@ The most claimant finding was the current state of the Genesis Proposals reposit
 
 The basic taxonomy for the project divides the proposals into those who asked for money \(financial\) and those who asked for no money or rep only \(non-financial\). The second axis was the external versus internal axis, where external projects are designated as anything that doesn’t affect the DAO directly, but is designed for research, bringing in community members, etc. Internal proposals are those that affect the DAO itself, including how the proposals are made, policies, and code.
 
-![](https://lh4.googleusercontent.com/qsRyIvdK6fI4HdkR8G9HgJaWgjPdZsE7kbzA-W7WhileAAOVkV8adn3w2ggkYKlNk0Xb26L6yfmbzQC9les-u8UJyzn1Al58GWNXYZDRFm_Z-DRbY_J1QCTpkTw-Cs3J_YvZeYYgPIf1eAgyHw)
+![](../../.gitbook/assets/selection_069.png)
 
 ## **Findings**
 
@@ -46,11 +46,9 @@ The proposals were read and tagged with numerous tags, depending on the type of 
 
 We did not perform an analysis per-budget.
 
-### Summary 
+### Next steps 
 
-**Summary of findings for proposal makers**
-
- Next steps possible:
+Summary of findings for proposal makers
 
 * Alchemy explorer¹ further developments 
   * 
