@@ -65,7 +65,7 @@ We did not perform an analysis per-budget.
 * Analysis of reputation given versus actual use of REP, that is, whether people allocated REP are actually using it.
   * 
 
-> ¹ The authors are concerned about the transparency of voting with the Alchemy Explorer. Anonymous voting allows people to worry less about the political implications of their votes and eliminates people voting for “friends” or people with more power, just to gain favor.
+> ¹ The authors are concerned about the transparency of voting with the Alchemy Explorer. Anonymous voting allows people to worry less about the political implications of their votes and eliminates people voting for “friends” or people with more power, just to gain favor. We acknowledge the discussion being carried [here](https://daotalk.org/t/private-voting-module/469/2?u=pat).
 
 ### References
 

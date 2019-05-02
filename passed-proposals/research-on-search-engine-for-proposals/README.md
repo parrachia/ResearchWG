@@ -8,23 +8,30 @@ description: By Grace and Pedro
 
 [Original Document](https://docs.google.com/document/d/1iw7BA5aIsjuHNxi9DeZyHtatLNPw5tYYrkfNARQmVK0/edit)
 
-### I - Expected Outcomes 
+### I - Objectives
 
 1. Uncover all relevant proposals around a specific topic so that we aren’t duplicating efforts with the upcoming [proposal for research](https://docs.google.com/spreadsheets/d/1pQrfzQMafzrsXt66ZzJBTjm20qeLXoUFX51ptRywLm4/edit#gid=1194219037) \([discussion on DAOtalk](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)\)
 2. Propose heuristics for future attempts at “proposals archeology”
 3. Be the start of a potential project for categorizing and sorting proposals semantically  
 
-### II - Deliverables:
+### II - Deliverables
 
 1. Report of findings and analysis of results \(in both editable and pdf formats\)
 2. Spreadsheet of findings \(interacting with [proposal tracking](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=1899049180)\)
 3. Recommendations for creation of a search engine/process
 
-## Deliveries
+## Outcomes
+
+1. **Key Takeaways**
+2. **Report**
+3. **Taxonomy** 
+   * Tables and mindmap with findings
+
+
 
 \[the importance of retrospectives\]
 
-### Key findings
+### Key Takeaways
 
 * The current proposal repository system is inadequate for long-term record-keeping, accountability, and management. In fact, it is not a repository at all, as the proposals are not even stored in one account.
   * the issue is aggravated by the simultaneously offchain \(usually gdocs\) and onchain \(Alchemy and DAOstack stack\) aspects of proposals
