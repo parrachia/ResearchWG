@@ -23,9 +23,11 @@ description: By Grace and Pedro
 ## Outcomes
 
 1. **Key Takeaways**
-2. **Report**
-3. **Taxonomy** 
-   * Tables and mindmap with findings
+2. \*\*\*\*[**Report**](https://gendao.gitbook.io/researchwg/passed-proposals/research-on-search-engine-for-proposals/report)\*\*\*\*
+   * with next steps
+3. \*\*\*\*[**Taxonomy** ](https://gendao.gitbook.io/researchwg/passed-proposals/research-on-search-engine-for-proposals/taxonomy)\*\*\*\*
+   * with tables of findings and mindmap
+4. **Memes**
 
 
 
@@ -33,19 +35,19 @@ description: By Grace and Pedro
 
 ### Key Takeaways
 
+* Doing the "neck test" was a healthy exercise that should be experienced by more DAO citizens and at a lower attention cost. Developing a proposal search engine could dramatically improve coordination and overall proposal quality 
+  * A well-done and beneficial retrospective/"neck-test" should yield actionable items and occur regularly. They encourage us to improve and prevent costly mistakes by prioritizing genDAOs self-evaluation.
 * The current proposal repository system is inadequate for long-term record-keeping, accountability, and management. In fact, it is not a repository at all, as the proposals are not even stored in one account.
-  * the issue is aggravated by the simultaneously offchain \(usually gdocs\) and onchain \(Alchemy and DAOstack stack\) aspects of proposals
-  * an alternative that offers both ease of use and scaling capabilities is still lacking. 
-  * we believe that a git based solution with some kind of open-source middleware could offer a viable candidate for solid medium-term solutions
-* Unlike other DAOs, the Genesis DAO does not focus on code. In fact, it’s the only DAO that does any industry research or marketing research at all. Generally anything having to do with marketing plans is centralized — in other words planning and marketing tend to be centralized by Aragon, Zcash, DASH, and DAOstack, if at all, rather than by the grants-based DAOs they have created.
-  * Regarding that, we identified multiple past proposals that could have benefited from a DAO landscape mapping, something that helps illustrate the importance of such research.
-* The proposals were fairly random, with an emphasis on marketing, particularly documentation and communications, with a few events.
-  * By analyzing the proposals using the taxonomy and the tags proposed here against a structured [vision](https://docs.google.com/document/d/10-0ppf_QpYdlBC_AFWt-QhJWyUpBRl5zU9bU1AWXUqU/edit#heading=h.ggo559linbt0) and [budget planning](https://docs.google.com/document/d/1fyhXSv_yp38FbC-R3aJPqqVJDvi6i0LATZya5F9vtZ4/edit), we may better understand the gaps and opportunities to become a more effective and cohesive group.
-* Doing the neck test was a healthy exercise that should be available to more DAO citizens and at a lower attention cost. Developing a proposal search engine could dramatically improve coordination and the proposal quality 
+  * we believe that it should be git based, with some kind of open-source middleware \(crawlers, APIs, alternative client...\) could offer a viable candidate for solid medium-term solutions
+* By analyzing the proposals using the taxonomy and the tags proposed here against a structured [vision](https://docs.google.com/document/d/10-0ppf_QpYdlBC_AFWt-QhJWyUpBRl5zU9bU1AWXUqU/edit#heading=h.ggo559linbt0) and [budget planning](https://docs.google.com/document/d/1fyhXSv_yp38FbC-R3aJPqqVJDvi6i0LATZya5F9vtZ4/edit), we may better understand the gaps and opportunities to become a more effective and cohesive group.
+
+### Report
 
 {% page-ref page="report.md" %}
 
-{% page-ref page="untitled/" %}
+### Taxonomy
+
+{% page-ref page="taxonomy/" %}
 
 ### Memes
 
