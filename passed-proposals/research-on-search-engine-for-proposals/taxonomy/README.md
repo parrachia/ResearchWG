@@ -13,13 +13,13 @@ By building off a baseline framework, we invite members of the genDAO to continu
 
 #### Labels
 
-> * **\[Area\]**
+> * **\[Area\]** - _\[Description\]_
 >   * \[Category\]
->     * _\[Example/Description\]_
+>     * _\[Example\]_
 
 
 
-* **NonFinancial Proposals**
+* **NonFinancial Proposals** - _any proposal that does not request funds_
   * Call to action
     * _Support_
     * _Non custodial Bounty_
@@ -29,7 +29,7 @@ By building off a baseline framework, we invite members of the genDAO to continu
   * Validation
     * _Yes/No_
     * _A/B_
-* **Financial**
+* **Financial** _- any proposal that does request funds_
   * One time
     * _microgrant_
   * Recurring
@@ -38,7 +38,7 @@ By building off a baseline framework, we invite members of the genDAO to continu
   * Rewards
     * _Escrow_
     * _Bounty_
-* **External**
+* **External** - _any proposal aimed at the outside, specifically or broadly_ 
   * Marketing
     * _Research/plan_
     * _Campaign_
@@ -47,7 +47,7 @@ By building off a baseline framework, we invite members of the genDAO to continu
   * PR
     * _Branding_
     * _Press Releases_
-* **Internal**
+* **Internal** _- any proposal focused on impacting the DAO itself_
   * Proposal update
     * _Amendments_
     * _Hourglass_

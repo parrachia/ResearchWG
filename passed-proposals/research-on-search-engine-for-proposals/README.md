@@ -22,16 +22,14 @@ description: By Grace and Pedro
 
 ## Outcomes
 
-1. **Key Takeaways**
-2. \*\*\*\*[**Report**](https://gendao.gitbook.io/researchwg/passed-proposals/research-on-search-engine-for-proposals/report)\*\*\*\*
-   * with next steps
-3. \*\*\*\*[**Taxonomy** ](https://gendao.gitbook.io/researchwg/passed-proposals/research-on-search-engine-for-proposals/taxonomy)\*\*\*\*
-   * with tables of findings and mindmap
-4. **Memes**
+1. _**Key Takeaways**_
+2. _\*\*\*\*_[_**Report**_](https://gendao.gitbook.io/researchwg/passed-proposals/research-on-search-engine-for-proposals/report)_\*\*\*\*_
+   * _with next steps_
+3. _\*\*\*\*_[_**Taxonomy**_ ](https://gendao.gitbook.io/researchwg/passed-proposals/research-on-search-engine-for-proposals/taxonomy)_\*\*\*\*_
+   * _with tables of findings and mindmap_
+4. _**Memes**_
 
 
-
-\[the importance of retrospectives\]
 
 ### Key Takeaways
 
