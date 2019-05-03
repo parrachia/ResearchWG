@@ -39,9 +39,17 @@ As shown below, most proposals were one-time proposals, and only a quarter of pr
 
 ![](https://lh3.googleusercontent.com/wumD7fd4nrbceabuvdS3sGDX2jyy8q-9ZG4-pxo691o-eRuwAeDCFemrRad14bSpNr2v8suCg_JZQrmGl0tsGIRNPdcZKYKVclPpXBVsgz8t_OAs6FxX-yfAXkGFNUU3uMKUmsMcbWRE89mnKg)
 
+The following chart shows the breakdown into the meta-categories of the organization. Approximately two-thirds were internal \(63%\) versus external proposals, and in the chart below there’s a clear emphasis on Organization and Meta sections. While in some organizations, this might be construed as an excessive percentage of navel-gazing, given that the purpose of the Genesis DAO is to explore the governance of DAOs, this seems appropriate, especially given the newness of the organization. While it is natural that a lot of Genesis’ time is spent considering how to run Genesis itself, informal conversations with members of the DAO revel that it also generates a high level of frustration and a feeling that the organization is slow to work with.
+
+![](../../.gitbook/assets/image.png)
+
+Another important note is that the initial proposals are limited in nature by the current budget allocations of the DAO. While Aragon’s funding is in the hundreds of thousands or even millions, and DASH’s average proposal size is $22,00, Genesis’ monthly budget is below that, meaning that the primary participants in the DAO are skewed towards people who can either break their proposals into smaller bits, who are also salaried in some way by DAOstack, or are interested in the experiment itself. The researchers have no judgment on whether this is “good” or “bad’, just a reflection on the nature of the community making the proposals.
+
 ### **Detailed tagging breakdown**
 
 The proposals were read and tagged with numerous tags, depending on the type of work that was being done, the geography and the purpose of the work. The tags used were based on traditional categorization in most companies. The chart below shows an emphasis on marketing and documentation \(often one proposal includes both\). While development was a focus of several proposals, compared to the core development of other projects, and of the DAOstack core team, the amount of development on the Genesis platform is minimal, and much of it was based on improving the Alchemy backend and on interfacing to other platforms.
+
+
 
 ![](https://lh4.googleusercontent.com/TvBNcW5eWIzwRWWbXnmTY6blIbhPGZswB0ZBqgrCNxHTl2pk5m-PQjvZRArm729QzdmpioeQM07NNyK2FFmL2_pMPVLrBihg-s_xryPOlxXF-Vl1at678A_X7ujRLKfhFxAN0exgAk0CaUWs1A)
 
