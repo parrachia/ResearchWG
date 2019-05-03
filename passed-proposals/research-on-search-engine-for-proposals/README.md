@@ -51,7 +51,7 @@ description: By Grace and Pedro
 
 ![](../../.gitbook/assets/2zuooy.jpg)
 
-![From &quot;Beyond the End of History&quot; by Cem](../../.gitbook/assets/image.png)
+![From &quot;Beyond the End of History&quot; by Cem](../../.gitbook/assets/image%20%283%29.png)
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 

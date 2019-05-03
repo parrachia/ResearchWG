@@ -17,18 +17,19 @@ The most claimant finding was the current state of the Genesis Proposals reposit
   * an alternative that offers both ease of use and scaling capabilities is still lacking. 
   * we believe that a git based solution with some kind of open-source middleware could offer a viable candidate for solid medium-term solutions
 * Unlike other DAOs, the Genesis DAO does not focus on code. In fact, it’s the only DAO that does any industry research or marketing research at all. Generally anything having to do with marketing plans is centralized — in other words planning and marketing tend to be centralized by Aragon, Zcash, DASH, and DAOstack, if at all, rather than by the grants-based DAOs they have created.
-  * Regarding that, we identified multiple past proposals that could have benefited from a DAO landscape mapping, something that helps illustrate the importance of such research.
+  * Regarding that, we identified multiple past proposals that could have benefited from a DAO landscape mapping, something that helps illustrate the importance of such initiative.
 * The proposals were fairly random, with an emphasis on marketing, particularly documentation and communications, with a few events.
   * By analyzing the proposals using the taxonomy and the tags proposed here against a structured [vision](https://docs.google.com/document/d/10-0ppf_QpYdlBC_AFWt-QhJWyUpBRl5zU9bU1AWXUqU/edit#heading=h.ggo559linbt0) and [budget planning](https://docs.google.com/document/d/1fyhXSv_yp38FbC-R3aJPqqVJDvi6i0LATZya5F9vtZ4/edit), we may better understand the gaps and opportunities to become a more effective and cohesive group.
-* Doing the neck test was a healthy exercise that should be available to more DAO citizens and at a lower attention cost. Developing a proposal search engine could dramatically improve coordination and the proposal quality 
+* Doing the "neck test" was a healthy exercise that should be available to more DAO citizens and at a lower attention cost. Developing a proposal search engine could dramatically improve coordination and the proposal quality 
+  * A well-done and beneficial retrospective/"neck-test" should yield actionable items and occur regularly. They encourage us to improve and prevent costly mistakes by prioritizing genDAOs self-evaluation.
 
 ## **Taxonomy**
 
 ### **Basic taxonomy**
 
-The basic taxonomy for the project divides the proposals into those who asked for money \(financial\) and those who asked for no money or rep only \(non-financial\). The second axis was the external versus internal axis, where external projects are designated as anything that doesn’t affect the DAO directly, but is designed for research, bringing in community members, etc. Internal proposals are those that affect the DAO itself, including how the proposals are made, policies, and code.
+The basic taxonomy for the project divides the proposals into those who asked for money \(**financial**\) and those who asked for no money or rep only \(**non-financial**\). The second axis was the **external** versus **internal** axis, where external projects are designated as anything that isn't aimed at the DAO directly, but is designed for research, bringing in community members, etc. Internal proposals are those that affect the DAO itself, including how the proposals are made, policies, and code.
 
-![](../../.gitbook/assets/selection_069.png)
+![](../../.gitbook/assets/selection_072.png)
 
 ## **Findings**
 
@@ -44,7 +45,9 @@ The proposals were read and tagged with numerous tags, depending on the type of 
 
 ![](https://lh4.googleusercontent.com/TvBNcW5eWIzwRWWbXnmTY6blIbhPGZswB0ZBqgrCNxHTl2pk5m-PQjvZRArm729QzdmpioeQM07NNyK2FFmL2_pMPVLrBihg-s_xryPOlxXF-Vl1at678A_X7ujRLKfhFxAN0exgAk0CaUWs1A)
 
-We did not perform an analysis per-budget.
+### Scope
+
+We did not perform an analysis per-budget. We chose to consider only the proposals that made into the the Proposal Tracking from the ATF until this very proposal passing. That excludes rejected proposals, new member's request for rep,  and the ones before the its beginning. 
 
 ### Next steps 
 
