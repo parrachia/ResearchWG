@@ -38,6 +38,7 @@ description: By Grace and Pedro
 * The current proposal repository system is inadequate for long-term record-keeping, accountability, and management. In fact, it is not a repository at all, as the proposals are not even stored in one account.
   * we believe that it should be git based, with some kind of open-source middleware \(crawlers, APIs, alternative client...\) could offer a viable candidate for solid medium-term solutions
 * By analyzing the proposals using the taxonomy and the tags proposed here against a structured [vision](https://docs.google.com/document/d/10-0ppf_QpYdlBC_AFWt-QhJWyUpBRl5zU9bU1AWXUqU/edit#heading=h.ggo559linbt0) and [budget planning](https://docs.google.com/document/d/1fyhXSv_yp38FbC-R3aJPqqVJDvi6i0LATZya5F9vtZ4/edit), we may better understand the gaps and opportunities to become a more effective and cohesive group.
+  * Regarding this and a other [next steps](https://app.gitbook.com/@gendao/s/researchwg/passed-proposals/research-on-search-engine-for-proposals/report#next-steps), we decided to present a few proposals ideas, structured according to current best practices.
 
 ### Report
 
