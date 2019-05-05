@@ -24,7 +24,7 @@ description: By Grace and Pedro
 
 1. _**Key Takeaways**_
 2. _\*\*\*\*_[_**Report**_](https://gendao.gitbook.io/researchwg/passed-proposals/research-on-search-engine-for-proposals/report)_\*\*\*\*_
-   * _with next steps preProposals_
+   * _with next steps and preProposals_
 3. _\*\*\*\*_[_**Taxonomy**_ ](https://gendao.gitbook.io/researchwg/passed-proposals/research-on-search-engine-for-proposals/taxonomy)_\*\*\*\*_
    * _with tables of findings and mindmap_
 4. _**Memes**_
@@ -42,7 +42,7 @@ description: By Grace and Pedro
 
 ### Report
 
-{% page-ref page="report.md" %}
+{% page-ref page="report/" %}
 
 ### Taxonomy
 
