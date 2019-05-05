@@ -5,8 +5,7 @@
 ## passed Proposals
 
 * [Research on Search Engine for Proposals](passed-proposals/research-on-search-engine-for-proposals/README.md)
-  * [Report](passed-proposals/research-on-search-engine-for-proposals/report/README.md)
-    * [Proposal ideas](passed-proposals/research-on-search-engine-for-proposals/report/proposal-ideas.md)
+  * [Report](passed-proposals/research-on-search-engine-for-proposals/report.md)
   * [Taxonomy](passed-proposals/research-on-search-engine-for-proposals/taxonomy/README.md)
     * [Table with findings](passed-proposals/research-on-search-engine-for-proposals/taxonomy/table-with-findings-1.md)
     * [Tagging Experiment](passed-proposals/research-on-search-engine-for-proposals/taxonomy/tagging-experiment.md)
