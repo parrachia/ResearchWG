@@ -15,4 +15,6 @@
 * [DAO Budgeting 101](research-wg/dao-budgeting-101/README.md)
   * [Report](research-wg/dao-budgeting-101/report.md)
 * [genLedger - Alchemy x Discourse integration](research-wg/genledger-alchemy-x-discourse-integration.md)
+* [D2D Fractalization](research-wg/d2d-fractalization/README.md)
+  * [Video Guidelines](research-wg/d2d-fractalization/video-guidelines.md)
 
