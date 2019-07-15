@@ -8,16 +8,23 @@ Intro
 
 ## Deliverables
 
+### 1st Draft
+
 {% embed url="https://daotalk.org/t/how-does-a-dao-go-fractal-draft-1/637" %}
 
+* [Draft 1](https://docs.google.com/document/d/18-OnkV5yI_OSiubcO_b0JWY_jJsweb00bnCAPotkoSA/edit)
 
+### 2nd Batch
+
+* [Matrix Mindmap](https://coggle.it/diagram/XSY_OwIEZdD-_CGJ/t/-)
+* [Validation Proposal](https://docs.google.com/document/d/1ZflxQz_VqDDAKk4UoXSMobEAme7N2H2t6Yo_jxoaAdM/edit?usp=sharing)
+
+#### Onboarding
 
 {% page-ref page="video-guidelines.md" %}
 
 * [Form](https://docs.google.com/forms/d/1_ZpLF6b9gUJF2SgqB6sSkKGCa4NGl_Xhj6YjbrAEOm0/edit)
-* [Matrix Mindmap](https://coggle.it/diagram/XSY_OwIEZdD-_CGJ/t/-)
-* [Validation Proposal](https://docs.google.com/document/d/1ZflxQz_VqDDAKk4UoXSMobEAme7N2H2t6Yo_jxoaAdM/edit?usp=sharing)
-
+* 
 
 
 ## Discussion
