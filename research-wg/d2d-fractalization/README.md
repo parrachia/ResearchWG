@@ -1,10 +1,14 @@
-# D2D Fractalization
+---
+description: GenDAO D2D onboarding procedure design
+---
+
+# How does a DAO go fractal?
 
 Intro
 
 ## Proposal
 
-[Proposal Doc](https://docs.google.com/document/d/163cNyXRi0p6duHr1gdTKwBXJOf0dQ8DyqF_eVv_2bXc/edit?usp=sharing)
+{% page-ref page="resources/proposal.md" %}
 
 ## Deliverables
 
@@ -21,7 +25,7 @@ Intro
 
 #### Onboarding
 
-{% page-ref page="video-guidelines.md" %}
+{% page-ref page="resources/video-guidelines.md" %}
 
 * [Form](https://docs.google.com/forms/d/1_ZpLF6b9gUJF2SgqB6sSkKGCa4NGl_Xhj6YjbrAEOm0/edit)
 * 
