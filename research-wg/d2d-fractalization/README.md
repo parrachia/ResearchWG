@@ -21,7 +21,7 @@ Intro
 ### 2nd Batch
 
 * [Matrix Mindmap](https://coggle.it/diagram/XSY_OwIEZdD-_CGJ/t/-)
-* [Validation Proposal](https://docs.google.com/document/d/1ZflxQz_VqDDAKk4UoXSMobEAme7N2H2t6Yo_jxoaAdM/edit?usp=sharing)
+* [Validation Proposal WIP](https://docs.google.com/document/d/1ZflxQz_VqDDAKk4UoXSMobEAme7N2H2t6Yo_jxoaAdM/edit?usp=sharing)
 
 #### Onboarding
 
