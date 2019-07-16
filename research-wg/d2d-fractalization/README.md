@@ -95,25 +95,54 @@ Exploring nested DAO structures enables a tight feedback loop of hypothesis crea
 
 #### 1st Draft + AMA
 
+Our 1st draft covered the initial structured thoughts about the necessary nomenclature, the outline of the onboarding procedure and a problem-solution proposition.
+
+The AMA was started in the DAOtalk forum but ended up happening in the GDocs. _**Feel free to comment and ask anything on both channels.**_
+
 {% page-ref page="resources/1st-draft.md" %}
 
 {% embed url="https://daotalk.org/t/how-does-a-dao-go-fractal-draft-1/637" %}
 
-### 2nd Batch
+### Onboarding procedure
+
+#### Screening
+
+Firstly a DAO that wants to join genDAO should have a clear, collective understanding of the protocol, Vision and access to key resources. Right now the closest thing we have is the DAO Hub [here](https://hub.gendao.org/) [hub.gendao.org](https://hub.gendao.org/) but as the DAO matures so will the resources for fractalizing candidates to screen for vital information.
+
+#### Signaling
+
+We have only but scratched the surface for the shapes and activities a DAO can take. And as such we should avoid constraining the possibilities for their signalling. Our effort here was to list as many templates and guidelines as possible. Basically offering different formats to answer the Who, What, Why, Where, When of the DAO candidate. All optional by definition but solid baselines nevertheless:
+
+* [Form](https://docs.google.com/forms/d/1_ZpLF6b9gUJF2SgqB6sSkKGCa4NGl_Xhj6YjbrAEOm0/edit)
+* [Video \(recorded/live\) guidelines](https://docs.google.com/document/d/1oilPFlKq13So82LxYouvmoiNNVH1VE7rKfwCsaTLyLA/edit?usp=sharing)
+* [Pitch Deck](https://docs.google.com/presentation/d/1_4nQIFb4fxnbV4r49ctkurgOxD5rgzj5gZBCtFPEdlc/edit?usp=sharing) \(originally by Eric Arsenault and DMO\)
+* "Vanilla" proposals
+
+### Nomenclature
+
+The fractalization of DAOs has several implications on the topology of the DAO space, in the sense that a series of new DAO forms become possible once DAOs can join DAOs.  We’ve taken a stab at defining these DAO forms and some related concepts, and assigned preliminary names to them.
+
+{% page-ref page="nomenclature.md" %}
+
+### Swarming
+
+A new attack vector, native to fractalized DAOs. 
+
+If too many members of one or more interDAO join genDAO to the point of tipping some balance, allowing for biased, unbalanced voting power in detriment of other interDAOs and even the main DAO itself.
+
+Mitigation: "trusted setup", make sure as many trusted interDAO members join, increasing that threshold as much as possible.
+
+Thanks Eric Arsenaut for multiple contributions including highlighting a possible case of fractal swarming.
+
+### More
 
 * [Matrix Mindmap](https://coggle.it/diagram/XSY_OwIEZdD-_CGJ/t/-)
 * [Validation Proposal WIP](https://docs.google.com/document/d/1ZflxQz_VqDDAKk4UoXSMobEAme7N2H2t6Yo_jxoaAdM/edit?usp=sharing)
 
-#### Onboarding
-
-{% page-ref page="resources/video-guidelines.md" %}
-
-* [Form](https://docs.google.com/forms/d/1_ZpLF6b9gUJF2SgqB6sSkKGCa4NGl_Xhj6YjbrAEOm0/edit)
-* 
-|  | Rep | DRep |
+|   | Rep | DRep |
 | :--- | :--- | :--- |
-| Person |  |  |
-| interDAO |  |  |
+| Person | the reputation they hold inside genDAO | The sum of their rep in other DAOs connected to genDAO |
+| interDAO | The reputation they hold inside genDAO | The sum of their rep in other DAOs connected to genDAO |
 
 ## Discussion
 
