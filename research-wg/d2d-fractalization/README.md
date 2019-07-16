@@ -140,7 +140,7 @@ Thanks Eric Arsenaut for multiple contributions including highlighting a possibl
 
 Any person or DAO could accumulate more reputation than what is agreed as maximum by growing reputation in fractalized DAOs. Instead of a complex mechanism for checks and balances we propose 1st a "canary in the mine".
 
-Mitigation: Rather than trying to keep tabs on each reputation holder, we focus on verifying that the interDAOs have a healthy rep distribution. In other words, the first line of defense against rep hoarding is as simple as opening the list of rep distribution and checking if it follows some yet to be defined threshold. E.g. xyzDAO has no member with more than 5% of their total reputation.
+Mitigation: Rather than trying to keep tabs on each reputation holder, we focus on verifying that the interDAOs have a healthy rep distribution. In other words, the first line of defense against rep hoarding is as simple as opening the list of rep distribution and checking if it exceeds some yet to be defined threshold. E.g. xyzDAO has no member with more than 5% of their total reputation.
 
 ### More \(WIP\)
 
