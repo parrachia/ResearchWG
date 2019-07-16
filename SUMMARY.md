@@ -17,6 +17,7 @@
 * [genLedger - Alchemy x Discourse integration](research-wg/genledger-alchemy-x-discourse-integration.md)
 * [How does a DAO go fractal?](research-wg/d2d-fractalization/README.md)
   * [Resources](research-wg/d2d-fractalization/resources/README.md)
+    * [1st Draft](research-wg/d2d-fractalization/resources/1st-draft.md)
     * [Proposal](research-wg/d2d-fractalization/resources/proposal.md)
     * [Video Guidelines](research-wg/d2d-fractalization/resources/video-guidelines.md)
     * [Weekly call notes](research-wg/d2d-fractalization/resources/weekly-call-notes.md)
