@@ -4,7 +4,7 @@ description: GenDAO D2D onboarding procedure design
 
 # How does a DAO go fractal?
 
-Collaboration at scale is agent-centric, it gravitates around entities.  However, in the current DAO space, interactions between DAOs often take the form of initiatives by specific members.  In other words, the processes by which individual DAOs translate member sentiment into governance action do not yet accommodate interactions between DAOs.  
+Collaboration at scale gravitates around entities.  However, in the current DAO space, interactions between DAOs often take the form of initiatives by specific members.  In other words, the processes by which individual DAOs translate member sentiment into governance action do not yet accommodate interactions between DAOs.  
 
 With genDAO positioned to assume the role of DAOstack ecosystem coordinator, how can we extend this efficiency beyond self-contained DAOs, so that the ecosystem can develop in a more dynamic and scalable way?  To state the problem in another way, a lack of standardization in the fractalization process could lead to a number of woes, including information asymmetries that threaten to expose us to [adverse selection and even moral-hazard](https://www.investopedia.com/ask/answers/042415/what-difference-between-moral-hazard-and-adverse-selection.asp).  
 
