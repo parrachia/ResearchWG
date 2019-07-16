@@ -8,7 +8,7 @@ Collaboration at scale gravitates around entities.  However, in the current DAO 
 
 With genDAO positioned to assume the role of DAOstack ecosystem coordinator, how can we extend this efficiency beyond self-contained DAOs, so that the ecosystem can develop in a more dynamic and scalable way?  To state the problem in another way, a lack of standardization in the fractalization process could lead to a number of woes, including information asymmetries that threaten to expose us to [adverse selection and even moral-hazard](https://www.investopedia.com/ask/answers/042415/what-difference-between-moral-hazard-and-adverse-selection.asp).  
 
-To truly open up the possibilities of fractalized DAOs, we need custom tailored onramps that DAOs can use to “plug into” other DAOs.  Certain basic elements of a “minimum viable fractalization” procedure must be defined so that would-be interDAOs are not forced to get too creative or engage in too much guesswork regarding the onboarding process. Besides the actual procedure, a broader and more comprehensive nomenclature is needed, together with updated checks and balances for the new uses of reputation.
+To truly open up the possibilities of fractalized DAOs, we need custom tailored onramps that DAOs can use to “plug into” other DAOs.  Certain basic elements of a “minimum viable fractalization” procedure must be defined so that would-be interDAOs are not forced to get too creative or engage in too much guesswork regarding the onboarding process. Besides the actual procedure, a broader and more comprehensive nomenclature is needed, together with updated checks and balances around reputation hold.
 
 ## Proposal
 
@@ -25,7 +25,7 @@ Exploring nested DAO structures enables a tight feedback loop of hypothesis crea
 
 ### Objectives
 
-* Foment the discussion around D2D interactions and fractalization in a open and participative way
+* Foment the discussion around D2D interactions and fractalization in a open and participatory way
 * Document initial best practices for DAOs to onboard other DAOs by signaling, screening and decentralized reputation managing
 * Later on, test those best practices by both:
   * onboading the DAOincubator and
@@ -107,7 +107,7 @@ The AMA was started in the DAOtalk forum but ended up happening in the GDocs. _*
 
 #### Screening
 
-Firstly a DAO that wants to join genDAO should have a clear, collective understanding of the protocol, Vision and access to key resources. Right now the closest thing we have is the DAO Hub [here](https://hub.gendao.org/) but as the DAO matures so will the resources for fractalizing candidates to screen for vital information.
+Firstly a DAO that wants to join genDAO should have a clear, collective understanding of the protocol, Vision and access to key documentations. Right now the closest thing we have is the DAO Hub [here](https://hub.gendao.org/) but as the DAO matures so will the resources for fractalizing candidates to screen for vital information.
 
 #### Signaling
 
@@ -124,22 +124,30 @@ The fractalization of DAOs has several implications on the topology of the DAO s
 
 {% page-ref page="nomenclature.md" %}
 
-### Swarming
+### New Attack Vectors
+
+#### Swarming
 
 A new attack vector, native to fractalized DAOs. 
 
-If too many members of one or more interDAO join genDAO to the point of tipping some balance, allowing for biased, unbalanced voting power in detriment of other interDAOs and even the main DAO itself.
+If too many members of one or more interDAOs join genDAO to the point of tipping some balance, allowing for biased, unbalanced voting power to the detriment of other interDAOs and even the main DAO itself.
 
-Mitigation: "trusted setup", make sure as many trusted interDAO members join, increasing that threshold as much as possible.
+Mitigation: "trusted setup", make sure as many trusted interDAOs members join, increasing that threshold as much as possible.
 
 Thanks Eric Arsenaut for multiple contributions including highlighting a possible case of fractal swarming.
+
+#### Derivative Reputation
+
+Any person or DAO could accumulate more reputation than what is agreed as maximum by growing reputation in fractalized DAOs. Instead of a complex mechanism for checks and balances we propose 1st a "canary in the mine".
+
+Mitigation: Rather than trying to keep tabs on each reputation holder, we focus on verifying that the interDAOs have a healthy rep distribution. In other words, the first line of defense against rep hoarding is as simple as opening the list of rep distribution and checking if it follows some yet to be defined threshold. E.g. xyzDAO has no member with more than 5% of their total reputation.
 
 ### More \(WIP\)
 
 * [Matrix Mindmap](https://coggle.it/diagram/XSY_OwIEZdD-_CGJ/t/-)
 * [Validation Proposal WIP](https://docs.google.com/document/d/1ZflxQz_VqDDAKk4UoXSMobEAme7N2H2t6Yo_jxoaAdM/edit?usp=sharing)
 
-|   | Rep | DRep |
+|  | Rep | DRep |
 | :--- | :--- | :--- |
 | Person | the reputation they hold inside genDAO | The sum of their rep in other DAOs connected to genDAO |
 | interDAO | The reputation they hold inside genDAO | The sum of their rep in other DAOs connected to genDAO |
