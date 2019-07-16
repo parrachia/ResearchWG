@@ -91,15 +91,13 @@ Exploring nested DAO structures enables a tight feedback loop of hypothesis crea
       <td style="text-align:left">Up to a week after procedure approval</td>
     </tr>
   </tbody>
-</table>## Deliverables
+</table>## Outcomes
 
-#### 1st Draft
+#### 1st Draft + AMA
+
+{% page-ref page="resources/1st-draft.md" %}
 
 {% embed url="https://daotalk.org/t/how-does-a-dao-go-fractal-draft-1/637" %}
-
-* [Draft 1](https://docs.google.com/document/d/18-OnkV5yI_OSiubcO_b0JWY_jJsweb00bnCAPotkoSA/edit)
-
-#### AMA
 
 ### 2nd Batch
 

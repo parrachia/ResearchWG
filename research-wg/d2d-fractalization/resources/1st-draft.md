@@ -1,5 +1,9 @@
 # 1st Draft
 
+[Source](https://docs.google.com/document/d/18-OnkV5yI_OSiubcO_b0JWY_jJsweb00bnCAPotkoSA/edit#)
+
+{% embed url="https://docs.google.com/document/d/18-OnkV5yI\_OSiubcO\_b0JWY\_jJsweb00bnCAPotkoSA/edit\#" %}
+
 ## How does a DAO go fractal? 
 
 What follows is our initial assessment of how genesisDAO can “fractalize” by accepting other DAOs as members, as promised in this Alchemy [vote](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830/proposal/0x335a462c458fa06fa6d400cfdb3ebd309e3800e6014df1e6d4ba52673c3c4e81).  
