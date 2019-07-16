@@ -124,16 +124,6 @@ The fractalization of DAOs has several implications on the topology of the DAO s
 
 {% page-ref page="nomenclature.md" %}
 
-### Swarming
-
-A new attack vector, native to fractalized DAOs. 
-
-If too many members of one or more interDAO join genDAO to the point of tipping some balance, allowing for biased, unbalanced voting power in detriment of other interDAOs and even the main DAO itself.
-
-Mitigation: "trusted setup", make sure as many trusted interDAO members join, increasing that threshold as much as possible.
-
-Thanks Eric Arsenaut for multiple contributions including highlighting a possible case of fractal swarming.
-
 ### More
 
 * [Matrix Mindmap](https://coggle.it/diagram/XSY_OwIEZdD-_CGJ/t/-)
