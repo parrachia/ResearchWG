@@ -4,7 +4,7 @@ description: GenDAO D2D onboarding procedure design
 
 # How does a DAO go fractal?
 
-Collaboration at scale is not agent-centric, but rather it gravitates around entities.  However, in the current DAO space, interactions between DAOs often take the form of initiatives by specific members.  In other words, the processes by which individual DAOs translate member sentiment into governance action do not yet accommodate interactions between DAOs.  
+Collaboration at scale is agent-centric, it gravitates around entities.  However, in the current DAO space, interactions between DAOs often take the form of initiatives by specific members.  In other words, the processes by which individual DAOs translate member sentiment into governance action do not yet accommodate interactions between DAOs.  
 
 With genDAO positioned to assume the role of DAOstack ecosystem coordinator, how can we extend this efficiency beyond self-contained DAOs, so that the ecosystem can develop in a more dynamic and scalable way?  To state the problem in another way, a lack of standardization in the fractalization process could lead to a number of woes, including information asymmetries that threaten to expose us to [adverse selection and even moral-hazard](https://www.investopedia.com/ask/answers/042415/what-difference-between-moral-hazard-and-adverse-selection.asp).  
 
@@ -97,7 +97,7 @@ Exploring nested DAO structures enables a tight feedback loop of hypothesis crea
 
 Our 1st draft covered the initial structured thoughts about the necessary nomenclature, the outline of the onboarding procedure and a problem-solution proposition.
 
-The AMA was started in the DAOtalk forum but ended up happening in the GDocs. _**Feel free to comment and ask anything on both channels.**_
+The AMA was started in the DAOtalk forum but ended up happening in the GDocs. _**Feel free to comment and ask anything on either channel.**_
 
 {% page-ref page="resources/1st-draft.md" %}
 
@@ -107,7 +107,7 @@ The AMA was started in the DAOtalk forum but ended up happening in the GDocs. _*
 
 #### Screening
 
-Firstly a DAO that wants to join genDAO should have a clear, collective understanding of the protocol, Vision and access to key resources. Right now the closest thing we have is the DAO Hub [here](https://hub.gendao.org/) [hub.gendao.org](https://hub.gendao.org/) but as the DAO matures so will the resources for fractalizing candidates to screen for vital information.
+Firstly a DAO that wants to join genDAO should have a clear, collective understanding of the protocol, Vision and access to key resources. Right now the closest thing we have is the DAO Hub [here](https://hub.gendao.org/) but as the DAO matures so will the resources for fractalizing candidates to screen for vital information.
 
 #### Signaling
 
