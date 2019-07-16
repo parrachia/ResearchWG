@@ -52,9 +52,9 @@ description: By Grace and Pedro
 
 ![https://knowyourmeme.com/memes/will-smith-in-youtube-rewind-2018](../../.gitbook/assets/2zuooy.jpg)
 
-![From &quot;Beyond the End of History&quot; by Cem](../../.gitbook/assets/image%20%283%29.png)
+![From &quot;Beyond the End of History&quot; by Cem](../../.gitbook/assets/image%20%284%29.png)
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
