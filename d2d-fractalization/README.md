@@ -18,14 +18,14 @@ Exploring nested DAO structures enables a tight feedback loop of hypothesis crea
 
 \(a\) between platforms’ native DAO \(e.g. genDAO\) and its subDAOs   
 \(b\) across subDAOs within a platform   
-\(c\) among DAO stakeholders \(individual and collective member entities, e.g. DAOincubator\)\]  
+\(c\) among DAO stakeholders \(individual and collective member entities, e.g. DAOincubator\)  
 \(d\) interoperable across platforms
 
 {% page-ref page="resources/proposal.md" %}
 
 ### Objectives
 
-* Foment the discussion around D2D interactions and fractalization in a open and participatory way
+* Foment the discussion around D2D interactions and fractalization in an open and participatory way
 * Document initial best practices for DAOs to onboard other DAOs by signaling, screening and decentralized reputation managing
 * Later on, test those best practices by both:
   * onboading the DAOincubator and
@@ -64,13 +64,14 @@ Exploring nested DAO structures enables a tight feedback loop of hypothesis crea
       <td style="text-align:left"><b>2nd feedback round: Breakoutroom</b>
       </td>
       <td style="text-align:left">To present and debate an improved version</td>
-      <td style="text-align:left">July 15th</td>
+      <td style="text-align:left">Delivered, notes <a href="https://docs.google.com/document/d/1ANNI1ogpOSJ96PQtvU7KDM8fbGS8EoGp5eS6SHh0TY8/edit?usp=sharing">here</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
         <p><b>Documentation</b>
         </p>
-        <p><b>on git</b>
+        <p><b>in git</b>
         </p>
       </td>
       <td style="text-align:left">Final version before Alchemy validation</td>
@@ -107,13 +108,13 @@ The AMA was started in the DAOtalk forum but ended up happening in the GDocs. _*
 
 #### Screening
 
-Firstly a DAO that wants to join genDAO should have a clear, collective understanding of the protocol, Vision and access to key documentations. Right now the closest thing we have is the DAO Hub [here](https://hub.gendao.org/) but as the DAO matures so will the resources for fractalizing candidates to screen for vital information.
+Firstly a DAO that wants to join genDAO should have a clear, collective understanding of the protocol, vision and access to key documentations. Right now the closest thing we have is the DAO Hub [here](https://hub.gendao.org/) but as the DAO matures so will the resources for fractalizing candidates to screen for vital information.
 
 #### Signaling
 
 We have only but scratched the surface for the shapes and activities a DAO can take. And as such we should avoid constraining the possibilities for their signalling. Our effort here was to list as many templates and guidelines as possible. Basically offering different formats to answer the Who, What, Why, Where, When of the DAO candidate. All optional by definition but solid baselines nevertheless:
 
-* [Form](https://docs.google.com/forms/d/1_ZpLF6b9gUJF2SgqB6sSkKGCa4NGl_Xhj6YjbrAEOm0/edit)
+* [Form](https://forms.gle/Z3RvttUzzi9CtfLy8)
 * [Video \(recorded/live\) guidelines](https://docs.google.com/document/d/1oilPFlKq13So82LxYouvmoiNNVH1VE7rKfwCsaTLyLA/edit?usp=sharing)
 * [Pitch Deck](https://docs.google.com/presentation/d/1_4nQIFb4fxnbV4r49ctkurgOxD5rgzj5gZBCtFPEdlc/edit?usp=sharing) \(originally by Eric Arsenault and DMO\)
 * "Vanilla" proposals
@@ -132,9 +133,9 @@ A new attack vector, native to fractalized DAOs.
 
 If too many members of one or more interDAOs join genDAO to the point of tipping some balance, allowing for biased, unbalanced voting power to the detriment of other interDAOs and even the main DAO itself.
 
-Mitigation: "trusted setup", make sure as many trusted interDAOs members join, increasing that threshold as much as possible.
+Mitigation: "trusted setup", make sure as many healthy, trusted interDAOs members join, increasing that threshold as much as possible.
 
-Thanks Eric Arsenaut for multiple contributions including highlighting a possible case of fractal swarming.
+_Thanks Eric Arsenaut for multiple contributions including highlighting a possible case of fractal swarming._
 
 #### Derivative Reputation
 
@@ -160,7 +161,7 @@ Mitigation: Rather than trying to keep tabs on each reputation holder, we focus 
 
 {% embed url="https://daotalk.org/t/how-does-a-dao-go-fractal-d2d-interaction-onboarding/571" %}
 
-[Notes from weekly call](https://docs.google.com/document/d/12VJq1OTKbvHdZN5PAjUuCOKEw31F0BsrOP96M09Y3eI/edit)
+{% page-ref page="resources/weekly-call-notes.md" %}
 
 ### Relevant
 
