@@ -27,7 +27,7 @@ The most claimant finding was the current state of the Genesis Proposals reposit
 
 The basic taxonomy for the project divides the proposals into those who asked for money \(**financial**\) and those who asked for no money or rep only \(**non-financial**\). The second axis was the **external** versus **internal** axis, where external projects are designated as anything that isn't aimed at the DAO directly, but is designed for research, bringing in community members, etc. Internal proposals are those that affect the DAO itself, including how the proposals are made, policies, and code.
 
-![](../../.gitbook/assets/selection_072.png)
+![](../.gitbook/assets/selection_072.png)
 
 Even though this model might leave an impression of being too rigid, we would like to acknowledge that, like yin & yang:
 
@@ -48,7 +48,7 @@ As shown below, most proposals were one-time proposals, and only a quarter of pr
 
 The following chart shows the breakdown into the meta-categories of the organization. Approximately two-thirds were internal \(63%\) versus external proposals, and in the chart below there’s a clear emphasis on Organization and Meta sections. While in some organizations, this might be construed as an excessive percentage of navel-gazing, given that the purpose of the Genesis DAO is to explore the governance of DAOs, this seems appropriate, especially given the newness of the organization. While it is natural that a lot of Genesis’ time is spent considering how to run Genesis itself, informal conversations with members of the DAO revel that it also generates a high level of frustration and a feeling that the organization is slow to work with.
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 Another important note is that the initial proposals are limited in nature by the current budget allocations of the DAO. While Aragon’s funding is in the hundreds of thousands or even millions, and DASH’s average proposal size is $22,00, Genesis’ monthly budget is below that, meaning that the primary participants in the DAO are skewed towards people who can either break their proposals into smaller bits, who are also salaried in some way by DAOstack, or are interested in the experiment itself. The researchers have no judgment on whether this is “good” or “bad’, just a reflection on the nature of the community making the proposals.
 
@@ -56,7 +56,7 @@ Another important note is that the initial proposals are limited in nature by th
 
 The proposals were read and tagged with numerous tags, depending on the type of work that was being done, the geography and the purpose of the work. The tags used were based on traditional categorization in most companies. The chart below shows an emphasis on marketing and documentation \(often one proposal includes both\). While development was a focus of several proposals, compared to the core development of other projects, and of the DAOstack core team, the amount of development on the Genesis platform is minimal, and much of it was based on improving the Alchemy backend and on interfacing to other platforms.
 
-![](../../.gitbook/assets/selection_073.png)
+![](../.gitbook/assets/selection_073.png)
 
 ### Scope
 

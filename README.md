@@ -1,4 +1,8 @@
-# Initial page: Proposal
+---
+description: An incoming proposal
+---
+
+# Intro: DAOincubator & genDAO
 
 ## Formal onboarding of the DAOincubator in the genDAO
 

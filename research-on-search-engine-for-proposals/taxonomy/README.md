@@ -58,7 +58,7 @@ By building off a baseline framework, we invite members of the genDAO to continu
 
     \_\_
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 Even though this model might leave an impression of being too rigid, we would like to acknowledge that, like yin & yang:
 

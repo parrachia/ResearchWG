@@ -1,4 +1,4 @@
-# Rationale
+# ResearchDAO: Rationale
 
 Matan Field - November 12th, 2018
 

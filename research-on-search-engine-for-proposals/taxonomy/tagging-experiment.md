@@ -2,9 +2,9 @@
 
 ## Graphs
 
-![](../../../.gitbook/assets/selection_074.png)
+![](../../.gitbook/assets/selection_074.png)
 
-![](../../../.gitbook/assets/selection_073.png)
+![](../../.gitbook/assets/selection_073.png)
 
 ## Tagging Proposals
 
