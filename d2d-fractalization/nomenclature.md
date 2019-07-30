@@ -26,3 +26,9 @@ This occurs when aliceDAO instructs one or more of its members to join bobDAO in
 
 A measure of the amount of reputation power that individuals wield in a DAO as a result of belonging to an interDAO that’s a member of it.
 
+### Swarming
+
+![](../.gitbook/assets/selection_048%20%281%29.png)
+
+
+
