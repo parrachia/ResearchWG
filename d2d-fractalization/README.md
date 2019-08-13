@@ -75,7 +75,8 @@ Exploring nested DAO structures enables a tight feedback loop of hypothesis crea
         </p>
       </td>
       <td style="text-align:left">Final version before Alchemy validation</td>
-      <td style="text-align:left">Partially delivered, ongoing (you are here)</td>
+      <td style="text-align:left">Delivered here but in a cooler way <a href="https://ecosystem.daoincubator.org/fractalizing/">there</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Follow up proposal with 1st release candidate</b>
@@ -93,6 +94,12 @@ Exploring nested DAO structures enables a tight feedback loop of hypothesis crea
     </tr>
   </tbody>
 </table>## Outcomes
+
+{% hint style="info" %}
+We have just finished the [D2D Fractalizing Handbook](https://ecosystem.daoincubator.org/fractalizing/) with all relevant insights listed here but in a much smoother and end-user oriented format. **As we validate the handbook we are discontinuing this page.**
+{% endhint %}
+
+{% embed url="https://ecosystem.daoincubator.org/fractalizing/" %}
 
 #### 1st Draft + AMA
 
